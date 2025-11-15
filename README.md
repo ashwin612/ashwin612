@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **ashwin612/ashwin612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about anythin
 - 📫 How to reach me: sukumaraashwin@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing sports and code
--->
+
