@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing sports and code
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin612&hide=contribs,prs)
